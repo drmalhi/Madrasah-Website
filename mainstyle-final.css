@@ -1,0 +1,29 @@
+ body{
+    margin:0;	
+    background-image:url("download.jpeg"); 
+    background-attachment:fixed; 
+    Background-repeat:no-repeat;
+    background-position:center;
+          -webkit-background-size: cover;
+                 -moz-background-size: cover;
+                 -o-background-size: cover;
+                 background-size: cover;
+              }
+    div#home{             
+      width:600px;
+      margin-left:50px;
+      border-radius: 25px;
+      font-family: 'Roboto', sans-serif;
+              }
+    div#background{
+        width:600px;
+        margin-left:50px;
+        border-radius: 25px;
+        font-family: 'Roboto', sans-serif;
+    }
+    div#group{
+width:600px;
+                margin-left:50px;
+                border-radius: 25px;
+                     font-family: 'Silkscreen', cursive;
+                  }
