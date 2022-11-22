@@ -1,0 +1,45 @@
+body {
+      margin: 0;
+      background-image:url("madrasahpic.png");
+	  background-size:contain;
+	  background-repeat:no repeat;
+	  height:300px;
+    }
+    
+    div#sidebar {
+      overflow: hidden;
+      background-color:white;
+    }
+    
+    div#sidebar a {
+      font-family: 'Silkscreen', cursive;
+      color: #006600;
+      align-content:right;
+      padding: 35px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    
+    div#sidebar a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+    
+    div#sidebar a#issue {
+      background-color: #04AA6D;
+      
+    }
+    div#header{
+      font-family: 'Silkscreen', cursive;
+      background:#04AA6D;
+      align-items: center;
+      padding: 3px 10px;		
+      opacity:0.8;
+    }
+    
+   div#footer{
+ font-family: 'Silkscreen', cursive;
+ background:#f0f0f0;
+ }
+ /* Type your main CSS styles here */
+  
